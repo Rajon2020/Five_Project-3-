@@ -1,0 +1,6 @@
+framework module Pods_Raj_apiimage {
+  umbrella header "Pods-Raj_apiimage-umbrella.h"
+
+  export *
+  module * { export * }
+}
